@@ -60,6 +60,7 @@
         },
         "DATABASE_NAME": {
             "description": "mongoDB Database name.",
+            "value": "HARERAMHARERAM",
             "required": false
         },
         "COLLECTION_NAME": {
