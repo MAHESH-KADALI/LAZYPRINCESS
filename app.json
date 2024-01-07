@@ -20,17 +20,17 @@
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
-            "value": "",
+            "value": "5637076172:AAHdxfEdwDqmxwY0gLMWw2HEfbuv37S5E_M",
             "required": true
         },
         "API_ID": {
             "description": "Get this value from https://my.telegram.org",
-            "value": "",
+            "value": "4857766",
             "required": true
         },
         "API_HASH": {
             "description": "Get this value from https://my.telegram.org",
-            "value": "",
+            "value": "6c3c6facf5598a4b318e138f8c407028",
             "required": true
         },
         "CHANNELS": {
@@ -40,27 +40,27 @@
         },
         "ADMINS": {
             "description": "Username or ID of Admin. Separate multiple Admins by space.",
-            "value": "",
+            "value": "1596559467",
             "required": true
         },
         "PICS": {
             "description": "Add some telegraph link of pictures .",
-            "value": "",
+            "value": "https://graph.org/file/0f20570db175553686f09.jpg",
             "required": false
         },
         "LOG_CHANNEL": {
             "description": "Bot Logs,Give a channel id with -100xxxxxxx",
-            "value": "",
+            "value": "-1001963446260",
             "required": true
         },
         "AUTH_USERS": {
             "description": "Username or ID of users to give access of inline search. Separate multiple users by space.\nLeave it empty if you don't want to restrict bot usage.",
-            "value": "",
+            "value": "1596559467",
             "required": false
         },
         "AUTH_CHANNEL": {
             "description": "ID of channel.Make sure bot is admin in this channel. Without subscribing this channel users cannot use bot.",
-            "value": "",
+            "value": "-1001348146919",
             "required": false
         },
         "DATABASE_URI": {
