@@ -20,14 +20,17 @@
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
+            "value": "",
             "required": true
         },
         "API_ID": {
             "description": "Get this value from https://my.telegram.org",
+            "value": "",
             "required": true
         },
         "API_HASH": {
             "description": "Get this value from https://my.telegram.org",
+            "value": "",
             "required": true
         },
         "CHANNELS": {
@@ -36,6 +39,7 @@
         },
         "ADMINS": {
             "description": "Username or ID of Admin. Separate multiple Admins by space.",
+            "value": "",
             "required": true
         },
         "PICS": {
