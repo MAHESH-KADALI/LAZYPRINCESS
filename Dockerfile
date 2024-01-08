@@ -9,4 +9,4 @@ RUN pip3 install -U pip && pip3 install -U -r requirements.txt
 RUN mkdir /LazyPrincess
 WORKDIR /LazyPrincess
 COPY start.sh /start.sh
-CMD ["/bin/bash", "python3 bot.py"]
+CMD ["/bin/bash", "bot.py"]
